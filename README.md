@@ -76,15 +76,20 @@
 
 ###
 
-<img align="right" height="150" src="https://science-cup.pl/wp-content/uploads/2025/12/Logo-Motorola-Solutions-Science-Cup-2026-scaled.png"  />
+<img align="right" height="100" src="https://science-cup.pl/wp-content/uploads/2025/12/Logo-Motorola-Solutions-Science-Cup-2026-scaled.png"  />
 
 ###
 
-<img align="left" height="150" src="https://mistrz-programowania.oki.org.pl/wp-content/uploads/2025/12/LogoMP2026-beztla-809x1024.png"  />
+<img align="left" height="100" src="https://mistrz-programowania.oki.org.pl/wp-content/uploads/2025/12/LogoMP2026-beztla-809x1024.png"  />
+
+
+
+
+
 
 ###
 
-<h2 align="left">🎯 My actual targets:</h2>
+<h2 align="center">🎯 My actual targets:</h2>
 
 ###
 
