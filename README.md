@@ -34,17 +34,36 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Xeno<br><br>🎓 Technical school student Eugeniusz Kwiatkowski School Complex No. 2 <br>💻 Young developer and programmer with a passion for system thinking, algorithms, and games  <br>🧠 I enjoy understanding why things work, not just that they work  <br>🖨️ Interested in 3D printing and turning digital designs into physical objects  <br>📚 Fantasy reader — worldbuilding, magic systems, and complex universes inspire my technical creativity  <br>🌱 Always exploring new technologies and improving my skills</p>
+<table>
+<tr>
+<td width="60%">
+
+👋 Hi, I'm Xeno  
+
+🎓 Technical school student — Eugeniusz Kwiatkowski School Complex No. 2  
+💻 Young developer focused on system thinking, algorithms, and game development  
+🧠 I enjoy understanding *why* things work, not just *that* they work  
+
+🖨️ Interested in 3D printing — turning digital designs into physical objects  
+📚 Fantasy reader — worldbuilding, magic systems, and complex universes inspire how I design systems  
+🌱 Always exploring new technologies and improving my skills  
+
+</td>
+<td width="40%">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+</td>
+</tr>
+</table>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Xeno178531&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Xeno178531&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="600" alt="streak graph"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <h2 align="center">🔧 Technologies used by me:</h2>
 
@@ -70,22 +89,16 @@
 
 <h2 align="center">🚀 My projects</h2>
 
-###
 
 <p align="left">- 🤖 Discord Bots – custom bots focused on automation, moderation, and system logic<br>- 🧠 Motorola Science Cup 2026 – competition project combining programming, gamedev, and technical creativity<br>- 🧮 Algorithm Challenges – regular practice with algorithms and data structures to improve problem-solving skills</p>
 
-###
+<br clear="both">
 
-<img align="right" height="100" src="https://science-cup.pl/wp-content/uploads/2025/12/Logo-Motorola-Solutions-Science-Cup-2026-scaled.png"  />
+<img align="right" height="150" src="https://science-cup.pl/wp-content/uploads/2025/12/Logo-Motorola-Solutions-Science-Cup-2026-scaled.png"  />
 
-###
+<img align="left" height="120" src="https://mistrz-programowania.oki.org.pl/wp-content/uploads/2025/12/LogoMP2026-beztla-809x1024.png"  />
 
-<img align="left" height="100" src="https://mistrz-programowania.oki.org.pl/wp-content/uploads/2025/12/LogoMP2026-beztla-809x1024.png"  />
-
-
-
-
-
+<br clear="both">
 
 ###
 
