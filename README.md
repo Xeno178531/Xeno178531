@@ -115,9 +115,3 @@
 ###
 
 <p align="left">- ⚙️ advanced algorithms and data structures<br>- 🎨 better software architecture and code organization<br>- 🥔 performance-aware programming<br>- 📑 designing systems instead of single scripts<br>- 📶 cisco essentials and more...</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/Xeno178531/Xeno178531/output/snake.svg" alt="Snake animation" />
-
-###
